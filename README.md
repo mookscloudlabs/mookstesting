@@ -11,3 +11,16 @@ This is some test for my 1st readme
 ## The second largest heading
 ###### The smallest heading
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+A List
+
+- George Washington
+- John Adams
+- Thomas Jefferson
